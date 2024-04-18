@@ -2,10 +2,16 @@
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1,CCTV-2财经 (1080p)
 https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
-#EXTINF:-1,CCTV-5+体育赛事 (1080p)
-https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+
 #EXTINF:-1,CCTV-5体育 (1080p)
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1,CCTV-5体育 HD
+http://66.165.240.154:8080/live/jsydcctv5/hls.m3u8
+#EXTINF:-1,CCTV-5+体育赛事 (1080p)
+https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+#EXTINF:-1,CCTV-5+体育赛事 HD
+http://66.165.240.154:8080/live/jsydcctv5p/hls.m3u8
+
 #EXTINF:-1,CCTV-6电影 (1080p)
 https://api.olelive.com/dis/live/CCTV6HD/hls.m3u8
 #EXTINF:-1,CCTV-7国防军事 (1080p)
@@ -27,3 +33,5 @@ https://api.olelive.com/dis/live/GUANGDONGHD/hls.m3u8
 https://api.olelive.com/dis/live/HUNANHD/hls.m3u8
 #EXTINF:-1,辽宁卫视 (1080p)
 https://api.olelive.com/dis/live/LIAONINGHD/hls.m3u8
+
+
