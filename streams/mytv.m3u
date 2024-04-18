@@ -1,4 +1,18 @@
-#EXTINF:-1,AM936新闻台
-http://radio.936.nz:8443/am936
-#EXTINF:-1,FM994 音乐广播
-http://radio.936.nz:8443/fm994
+#EXTINF:-1,CCTV-1综合 (1080p)
+https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+#EXTINF:-1,CCTV-2财经 (1080p)
+https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+#EXTINF:-1,CCTV-5+体育赛事 (1080p)
+https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+#EXTINF:-1,CCTV-5体育 (1080p)
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1,CCTV-7国防军事 (1080p)
+https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
+#EXTINF:-1,CCTV-8电视剧 (1080p)
+https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
+#EXTINF:-1,CCTV-9纪录 (1080p)
+https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+#EXTINF:-1,CCTV-10科教 (1080p)
+https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
+#EXTINF:-1 tvg-id="CCTV13.cn",CCTV-13新闻 (1080p)
+https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
