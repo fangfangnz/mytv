@@ -20,6 +20,8 @@ https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
 https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 #EXTINF:-1,CCTV-10科教 (1080p)
 https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
+#EXTINF:-1,CCTV-13新闻
+http://live.chunfei.top/live02/cctv.m3u8?channel=cctvnews
 #EXTINF:-1,CCTV-13新闻 (1080p)
 https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 #EXTINF:-1,CCTV-16 奥林匹克 (1080p)
@@ -27,6 +29,7 @@ https://api.olelive.com/dis/live/CCTV16HD/hls.m3u8
 
 #EXTINF:-1,广东卫视 (1080p)
 https://api.olelive.com/dis/live/GUANGDONGHD/hls.m3u8
+https://api.olelive.com/dis/live/LIAONINGHD/hls.m3u8
 #EXTINF:-1,湖南卫视 (1080p)
 https://api.olelive.com/dis/live/HUNANHD/hls.m3u8
 #EXTINF:-1,辽宁卫视 (1080p)
