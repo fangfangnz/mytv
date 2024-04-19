@@ -2,6 +2,8 @@
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1,CCTV-2财经 (1080p)
 https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+#EXTINF:-1,CCTV-4中文国际 (1080p)
+http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2022576603.m3u8
 #EXTINF:-1,CCTV-5体育 (1080p)
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1,CCTV-5体育 HD
@@ -39,3 +41,7 @@ https://api.olelive.com/dis/live/LIAONINGHD/hls.m3u8
 http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1,凤凰卫视 HD
 http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1,东森电影 HD
+https://edge2.laotv.la/live/DongsenForeignMovie/index.m3u8
+#EXTINF:-1,美国HBO电影
+http://41.205.93.154/HBO/index.m3u8
