@@ -4,14 +4,20 @@ https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 #EXTINF:-1,CCTV-4中文国际 (1080p)
 http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2022576603.m3u8
-#EXTINF:-1,CCTV-5体育 (1080p)
+
+#EXTINF:-1,CCTV-5体育1 (1080p)
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1,CCTV-5体育2 (1080p)
+https://api.olelive.com/dis/live/CCTV5HD/hls.m3u8
 #EXTINF:-1,CCTV-5体育 HD
 http://66.165.240.154:8080/live/jsydcctv5/hls.m3u8
-#EXTINF:-1,CCTV-5+体育赛事 (1080p)
+#EXTINF:-1,CCTV-5+体育赛事1 (1080p)
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+#EXTINF:-1,CCTV-5+体育赛事2 (1080p)
+https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1,CCTV-5+体育赛事 HD
 http://66.165.240.154:8080/live/jsydcctv5p/hls.m3u8
+
 #EXTINF:-1,CCTV-6电影 (1080p)
 https://api.olelive.com/dis/live/CCTV6HD/hls.m3u8
 #EXTINF:-1,CCTV-7国防军事 (1080p)
@@ -22,7 +28,10 @@ https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
 https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 #EXTINF:-1,CCTV-10科教 (1080p)
 https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
-#EXTINF:-1,CCTV-13新闻
+
+#EXTINF:-1,CCTV-12科教 (1080p)
+http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2022575803.m3u8
+#EXTINF:-1,CCTV-13新闻(1080p)
 http://live.chunfei.top/live02/cctv.m3u8?channel=cctvnews
 #EXTINF:-1,CCTV-13新闻 (1080p)
 https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
