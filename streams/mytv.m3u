@@ -41,7 +41,11 @@ https://api.olelive.com/dis/live/LIAONINGHD/hls.m3u8
 http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1,凤凰卫视 HD
 http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1,TVB星河
+https://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 #EXTINF:-1,东森电影 HD
 https://edge2.laotv.la/live/DongsenForeignMovie/index.m3u8
 #EXTINF:-1,美国HBO电影
 http://41.205.93.154/HBO/index.m3u8
+#EXTINF:-1,亚洲武侠
+https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/playlist.m3u8
