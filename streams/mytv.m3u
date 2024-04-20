@@ -45,6 +45,8 @@ http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 https://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 #EXTINF:-1,东森电影 HD
 https://edge2.laotv.la/live/DongsenForeignMovie/index.m3u8
+#EXTINF:-1,天映频道
+http://210.210.155.37/session/1a6abab0-feb2-11ee-b086-b5098f2f0d82/dr9445/h/h14/index.m3u8
 #EXTINF:-1,美国HBO电影
 http://41.205.93.154/HBO/index.m3u8
 #EXTINF:-1,亚洲武侠
