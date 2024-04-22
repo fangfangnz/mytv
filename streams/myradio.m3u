@@ -45,6 +45,23 @@ http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
 
 
 
+#EXTINF:-1,北京音乐广播
+https://cnlive.cnr.cn/hls/bjyygb.m3u8
+#EXTINF:-1,北京交通广播
+https://cnlive.cnr.cn/hls/bjjtgb.m3u8
+#EXTINF:-1,北京新闻广播
+https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
+#EXTINF:-1,北京城市广播
+https://satellitepull.cnr.cn/live/wxbjcsfwgl/playlist.m3u8
+
+
+#EXTINF:-1,北京城市广播
+https://satellitepull.cnr.cn/live/wxbjcsfwgl/playlist.m3u8
+
+
+
+
+
 #EXTINF:-1,河南新闻广播
 https://stream.hndt.com/live/xinwen/playlist.m3u8
 #EXTINF:-1,河南经济广播
