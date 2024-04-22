@@ -1,55 +1,55 @@
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1综合 (1080p)
+#EXTINF:-1 group-title="央视频道",CCTV-1综合 (1080p)
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2财经 (1080p)
+#EXTINF:-1 group-title="央视频道",CCTV-2财经 (1080p)
 https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4中文国际 (1080p)
+#EXTINF:-1 group-title="央视频道",CCTV-4中文国际 (1080p)
 http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2022576603.m3u8
 
-#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5体育1 (1080p)
+#EXTINF:-1 group-title="央视频道",CCTV-5体育1 (1080p)
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5体育2 (1080p)
+#EXTINF:-1 group-title="央视频道",CCTV-5体育2 (1080p)
 https://api.olelive.com/dis/live/CCTV5HD/hls.m3u8
-#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5体育 HD
+#EXTINF:-1 group-title="央视频道",CCTV-5体育 HD
 http://66.165.240.154:8080/live/jsydcctv5/hls.m3u8
-#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+体育赛事1 (1080p)
+#EXTINF:-1 group-title="央视频道",CCTV-5+体育赛事1 (1080p)
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+体育赛事2 (1080p)
+#EXTINF:-1 group-title="央视频道",CCTV-5+体育赛事2 (1080p)
 https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8
-#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+体育赛事 HD
+#EXTINF:-1 group-title="央视频道",CCTV-5+体育赛事 HD
 http://66.165.240.154:8080/live/jsydcctv5p/hls.m3u8
 
-#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV-6电影 (1080p)
+#EXTINF:-1 group-title="央视频道",CCTV-6电影 (1080p)
 https://api.olelive.com/dis/live/CCTV6HD/hls.m3u8
-#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道",CCTV-7国防军事 (1080p)
+#EXTINF:-1 group-title="央视频道",CCTV-7国防军事 (1080p)
 https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
-#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道",CCTV-8电视剧 (1080p)
+#EXTINF:-1 group-title="央视频道",CCTV-8电视剧 (1080p)
 https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
-#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视频道",CCTV-9纪录 (1080p)
+#EXTINF:-1 group-title="央视频道",CCTV-9纪录 (1080p)
 https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
-#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视频道",CCTV-10科教 (1080p)
+#EXTINF:-1 group-title="央视频道",CCTV-10科教 (1080p)
 https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
 
-#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视频道",CCTV-12社会与法 (1080p)
+#EXTINF:-1 group-title="央视频道",CCTV-12社会与法 (1080p)
 http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2022575803.m3u8
-#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道",CCTV-13新闻1 (1080p)
+#EXTINF:-1 group-title="央视频道",CCTV-13新闻1 (1080p)
 http://live.chunfei.top/live02/cctv.m3u8?channel=cctvnews
-#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道",CCTV-13新闻2 (1080p)
+#EXTINF:-1 group-title="央视频道",CCTV-13新闻2 (1080p)
 https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
-#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道",CCTV-13新闻3 (1080p)
+#EXTINF:-1 group-title="央视频道",CCTV-13新闻3 (1080p)
 https://api.olelive.com/dis/live/CCTV13HD/hls.m3u8
-#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克 (1080p)
+#EXTINF:-1 group-title="央视频道",CCTV-16 奥林匹克 (1080p)
 https://api.olelive.com/dis/live/CCTV16HD/hls.m3u8
 
-#EXTINF:-1,logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视频道",广东卫视 (1080p)
+#EXTINF:-1 group-title="卫视频道",广东卫视 (1080p)
 https://api.olelive.com/dis/live/GUANGDONGHD/hls.m3u8
-#EXTINF:-1,logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视频道",湖南卫视 (1080p)
+#EXTINF:-1 group-title="卫视频道",湖南卫视 (1080p)
 https://api.olelive.com/dis/live/HUNANHD/hls.m3u8
-#EXTINF:-1,logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视 (1080p)
+#EXTINF:-1 group-title="卫视频道",辽宁卫视 (1080p)
 https://api.olelive.com/dis/live/LIAONINGHD/hls.m3u8
 
-#EXTINF:-1,logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰资讯
+#EXTINF:-1 group-title="卫视频道",凤凰资讯
 http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1,logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="卫视频道",凤凰卫视 HD
+#EXTINF:-1 group-title="卫视频道",凤凰卫视 HD
 http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 
 #EXTINF:-1,TVB星河
