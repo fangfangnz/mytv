@@ -52,13 +52,13 @@ http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 group-title="卫视频道",凤凰卫视 HD
 http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 
-#EXTINF:-1,TVB星河
+#EXTINF:-1 group-title="港澳台频道",TVB星河
 https://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-#EXTINF:-1,东森电影 HD
+#EXTINF:-1 group-title="港澳台频道",东森电影 HD
 https://edge2.laotv.la/live/DongsenForeignMovie/index.m3u8
-#EXTINF:-1,天映频道
+#EXTINF:-1 group-title="港澳台频道",天映频道
 http://210.210.155.37/session/1a6abab0-feb2-11ee-b086-b5098f2f0d82/dr9445/h/h14/index.m3u8
-#EXTINF:-1,美国HBO电影
+#EXTINF:-1 group-title="港澳台频道",美国HBO电影
 http://41.205.93.154/HBO/index.m3u8
-#EXTINF:-1,亚洲武侠
+#EXTINF:-1 group-title="港澳台频道",亚洲武侠
 https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/playlist.m3u8
