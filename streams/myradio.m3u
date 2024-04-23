@@ -55,7 +55,22 @@ https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 https://satellitepull.cnr.cn/live/wxbjcsfwgl/playlist.m3u8
 
 
-
+#EXTINF:-1,黑龙江音乐广播
+https://satellitepull.cnr.cn/live/wx32hljyygb/playlist.m3u8
+#EXTINF:-1,江苏音乐广播
+https://satellitepull.cnr.cn/live/wx32jsyygb/playlist.m3u8
+#EXTINF:-1,福建音乐广播
+https://satellitepull.cnr.cn/live/wx32fjdnyygb/playlist.m3u8
+#EXTINF:-1,江西音乐广播
+https://satellitepull.cnr.cn/live/wx32jiangxyygb/playlist.m3u8
+#EXTINF:-1,山东音乐广播
+https://satellitepull.cnr.cn/live/wxsdyygb/playlist.m3u8
+#EXTINF:-1,湖北经典音乐
+https://satellitepull.cnr.cn/live/wx32hubyygb/playlist.m3u8
+#EXTINF:-1,湖南年代音乐
+https://satellitepull.cnr.cn/live/wx32hunlygb/playlist.m3u8
+#EXTINF:-1,广东音乐之声
+https://satellitepull.cnr.cn/live/wxgdyyzs/playlist.m3u8
 
 
 
