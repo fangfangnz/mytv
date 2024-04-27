@@ -18,8 +18,7 @@ https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-5+体育赛事 HD
 http://66.165.240.154:8080/live/jsydcctv5p/hls.m3u8
 
-#EXTINF:-1 group-title="央视频道",CCTV-6电影 (1080p)
-https://api.olelive.com/dis/live/CCTV6HD/hls.m3u8
+
 #EXTINF:-1 group-title="央视频道",CCTV-7国防军事 (1080p)
 https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-8电视剧 (1080p)
@@ -46,6 +45,11 @@ https://api.olelive.com/dis/live/GUANGDONGHD/hls.m3u8
 https://api.olelive.com/dis/live/HUNANHD/hls.m3u8
 #EXTINF:-1 group-title="卫视频道",辽宁卫视 (1080p)
 https://api.olelive.com/dis/live/LIAONINGHD/hls.m3u8
+#EXTINF:-1 group-title="卫视频道",东方卫视 (1080p)
+https://api.olelive.com/dis/live/DONGFANGHD/hls.m3u8
+#EXTINF:-1 group-title="卫视频道",浙江卫视 (1080p)
+https://api.olelive.com/dis/live/ZHEJIANGHD/hls.m3u8
+
 
 #EXTINF:-1 group-title="卫视频道",凤凰资讯
 http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
