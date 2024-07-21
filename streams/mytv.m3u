@@ -9,6 +9,8 @@ http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2022576603.m3u8
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-5体育2 (1080p)
 https://api.olelive.com/dis/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-5体育3
+https://z02.ubtvfans.com/live/rx1/204/7eb3bfaf347e514a453b161277aa01f3/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-5体育 HD
 http://66.165.240.154:8080/live/jsydcctv5/hls.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-5+体育赛事1 (1080p)
