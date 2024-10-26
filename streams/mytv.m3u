@@ -10,9 +10,9 @@ https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-5体育2 (1080p)
 https://api.olelive.com/dis/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-5体育3
-https://z02.ubtvfans.com/live/rx1/204/7eb3bfaf347e514a453b161277aa01f3/index.m3u8
+http://223.12.113.32:8083/rtp/239.1.1.11:8011$1920x1080
 #EXTINF:-1 group-title="央视频道",CCTV-5体育 HD
-http://66.165.240.154:8080/live/jsydcctv5/hls.m3u8
+http://115.207.183.14:8881/rtp/233.50.201.197:5140$1920x1080
 #EXTINF:-1 group-title="央视频道",CCTV-5+体育赛事1 (1080p)
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-5+体育赛事2 (1080p)
