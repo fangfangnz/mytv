@@ -5,68 +5,21 @@ https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-4中文国际 (1080p)
 http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2022576603.m3u8
 
-#EXTINF:-1 group-title="央视频道",CCTV-5体育1 (1080p)
-https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-5体育2 (1080p)
-https://api.olelive.com/dis/live/CCTV5HD/hls.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-5体育3
-http://223.12.113.32:8083/rtp/239.1.1.11:8011$1920x1080
-#EXTINF:-1 group-title="央视频道",CCTV-5体育 HD
-http://115.207.183.14:8881/rtp/233.50.201.197:5140$1920x1080
-#EXTINF:-1 group-title="央视频道",CCTV-5+体育赛事1 (1080p)
-https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-5+体育赛事2 (1080p)
-https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-5+体育赛事 HD
-http://66.165.240.154:8080/live/jsydcctv5p/hls.m3u8
 
 
-#EXTINF:-1 group-title="央视频道",CCTV-6电影 (1080p)
-https://api.olelive.com/dis/live/CCTV6HD/hls.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-7国防军事 (1080p)
-https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-8电视剧 (1080p)
-https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-9纪录 (1080p)
-https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-10科教 (1080p)
-https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
-
-#EXTINF:-1 group-title="央视频道",CCTV-12社会与法 (1080p)
-http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2022575803.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-13新闻1 (1080p)
-http://live.chunfei.top/live02/cctv.m3u8?channel=cctvnews
-#EXTINF:-1 group-title="央视频道",CCTV-13新闻2 (1080p)
-https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-13新闻3 (1080p)
-https://api.olelive.com/dis/live/CCTV13HD/hls.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-16 奥林匹克 (1080p)
-https://api.olelive.com/dis/live/CCTV16HD/hls.m3u8
-
-#EXTINF:-1 group-title="卫视频道",广东卫视 (1080p)
-https://api.olelive.com/dis/live/GUANGDONGHD/hls.m3u8
-#EXTINF:-1 group-title="卫视频道",湖南卫视 (1080p)
-https://api.olelive.com/dis/live/HUNANHD/hls.m3u8
-#EXTINF:-1 group-title="卫视频道",辽宁卫视 (1080p)
-https://api.olelive.com/dis/live/LIAONINGHD/hls.m3u8
-#EXTINF:-1 group-title="卫视频道",东方卫视 (1080p)
-https://api.olelive.com/dis/live/DONGFANGHD/hls.m3u8
-#EXTINF:-1 group-title="卫视频道",浙江卫视 (1080p)
-https://api.olelive.com/dis/live/ZHEJIANGHD/hls.m3u8
 
 
-#EXTINF:-1 group-title="卫视频道",凤凰资讯
-http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 group-title="卫视频道",凤凰卫视 HD
-http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 
-#EXTINF:-1 group-title="港澳台频道",TVB星河
-https://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-#EXTINF:-1 group-title="港澳台频道",东森电影 HD
-https://edge2.laotv.la/live/DongsenForeignMovie/index.m3u8
-#EXTINF:-1 group-title="港澳台频道",天映频道
-http://210.210.155.37/session/1a6abab0-feb2-11ee-b086-b5098f2f0d82/dr9445/h/h14/index.m3u8
-#EXTINF:-1 group-title="港澳台频道",美国HBO电影
-http://41.205.93.154/HBO/index.m3u8
-#EXTINF:-1 group-title="港澳台频道",亚洲武侠
-https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/playlist.m3u8
+#EXTINF:-1 ,CCTV-1
+https://yunmei.tv/sky-main-hls/stream.m3u8
+#EXTINF:-1 ,CCTV-5
+https://yunmei.tv/sky-main-hls/stream.m3u8
+#EXTINF:-1 ,CCTV-5+
+https://yunmei.tv/sky-main-hls/stream.m3u8
+#EXTINF:-1 ,CCTV-16
+https://yunmei.tv/sky-main-hls/stream.m3u8
+
+
+
+
+
