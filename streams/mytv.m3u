@@ -11,13 +11,13 @@ http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2022576603.m3u8
 
 
 #EXTINF:-1 ,CCTV-1
-https://yunmei.tv/sky-main-hls/stream.m3u8
+https://yunmei.tv/cctv-1-hls/stream.m3u8
 #EXTINF:-1 ,CCTV-5
-https://yunmei.tv/sky-main-hls/stream.m3u8
+https://yunmei.tv/cctv-5-hls/stream.m3u8
 #EXTINF:-1 ,CCTV-5+
-https://yunmei.tv/sky-main-hls/stream.m3u8
+https://yunmei.tv/cctv-5plus-hls/stream.m3u8
 #EXTINF:-1 ,CCTV-16
-https://yunmei.tv/sky-main-hls/stream.m3u8
+https://yunmei.tv/cctv-16-hls/stream.m3u8
 
 
 
