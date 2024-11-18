@@ -1,11 +1,11 @@
 
-#EXTINF:-1 group-title="央视频道",,CCTV-1
+#EXTINF:-1 group-title="央视频道",CCTV-1
 https://yunmei.tv/cctv-1-hls/stream.m3u8
-#EXTINF:-1 group-title="央视频道",,CCTV-5
+#EXTINF:-1 group-title="央视频道",CCTV-5
 https://yunmei.tv/cctv-5-hls/stream.m3u8
-#EXTINF:-1 group-title="央视频道",,CCTV-5+
+#EXTINF:-1 group-title="央视频道",CCTV-5+
 https://yunmei.tv/cctv-5plus-hls/stream.m3u8
-#EXTINF:-1 group-title="央视频道",,CCTV-16
+#EXTINF:-1 group-title="央视频道",CCTV-16
 https://yunmei.tv/cctv-16-hls/stream.m3u8
 
 
