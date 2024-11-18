@@ -6,10 +6,6 @@ https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2022576603.m3u8
 
 
-
-
-
-
 #EXTINF:-1 ,CCTV-1
 https://yunmei.tv/cctv-1-hls/stream.m3u8
 #EXTINF:-1 ,CCTV-5
@@ -18,6 +14,19 @@ https://yunmei.tv/cctv-5-hls/stream.m3u8
 https://yunmei.tv/cctv-5plus-hls/stream.m3u8
 #EXTINF:-1 ,CCTV-16
 https://yunmei.tv/cctv-16-hls/stream.m3u8
+
+#EXTINF:-1 ,南京新闻综合
+http://live.nbs.cn/channels/njtv/xwpdb/nbs06.m3u8
+#EXTINF:-1 ,南京十八
+http://live.nbs.cn/channels/njtv/sbsh/nbs24.m3u8
+#EXTINF:-1 ,南京科教
+http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
+#EXTINF:-1 ,南京文旅记录
+http://live.nbs.cn/channels/njtv/wljl/nbs24.m3u8
+#EXTINF:-1 ,南京少儿
+http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
+
+
 
 
 
