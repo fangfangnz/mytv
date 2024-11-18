@@ -17,37 +17,37 @@ https://yunmei.tv/cctv-16-hls/stream.m3u8
 
 
 
-#EXTINF:-1 ,南京新闻综合
+#EXTINF:-1 group-title="地方台",南京新闻综合
 http://live.nbs.cn/channels/njtv/xwpdb/nbs06.m3u8
-#EXTINF:-1 ,南京十八
+#EXTINF:-1 group-title="地方台",南京十八
 http://live.nbs.cn/channels/njtv/sbsh/nbs24.m3u8
-#EXTINF:-1 ,南京科教
+#EXTINF:-1 group-title="地方台",南京科教
 http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
-#EXTINF:-1 ,南京文旅记录
+#EXTINF:-1 group-title="地方台",南京文旅记录
 http://live.nbs.cn/channels/njtv/wljl/nbs24.m3u8
-#EXTINF:-1 ,南京少儿
+#EXTINF:-1 group-title="地方台",南京少儿
 http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
 
-#EXTINF:-1 ,浙江新闻
+#EXTINF:-1 group-title="地方台",浙江新闻
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-#EXTINF:-1 ,浙江影视
+#EXTINF:-1 group-title="地方台",浙江影视
 https://qiniup-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
-#EXTINF:-1 ,浙江国际
+#EXTINF:-1 group-title="地方台",浙江国际
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 ,浙江科教
+#EXTINF:-1 group-title="地方台",浙江科教
 https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 ,浙江民生
+#EXTINF:-1 group-title="地方台",浙江民生
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 ,浙江经济
+#EXTINF:-1 group-title="地方台",浙江经济
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 ,浙江钱江
+#EXTINF:-1 group-title="地方台",浙江钱江
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
-#EXTINF:-1 ,绍兴综合
+#EXTINF:-1 group-title="地方台",绍兴综合
 http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
-#EXTINF:-1 ,绍兴公共
+#EXTINF:-1 group-title="地方台",绍兴公共
 http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
-#EXTINF:-1 ,绍兴影视
+#EXTINF:-1 group-title="地方台",绍兴影视
 http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 
 
