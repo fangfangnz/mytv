@@ -108,6 +108,27 @@ https://api.livednow.org/migu/617289997?sign=gAAAAABnJcJqQwPbtkXR0EduHeJNS7Praw2
 
 
 
+
+#EXTINF:-1 group-title="IPTV研究所",爆谷台
+https://tv.mytvsuper.xyz/1/baogutai/baogu.m3u8
+#EXTINF:-1 group-title="IPTV研究所",星影台
+https://tv.mytvsuper.xyz/1/xingyingtai/xingying.m3u8
+#EXTINF:-1 group-title="IPTV研究所",星河台
+https://tv.mytvsuper.xyz/tvb/xinghe/xinghe.m3u8
+#EXTINF:-1 group-title="IPTV研究所",千禧经典台
+https://tv.mytvsuper.xyz/astro/qianxi/qianxi.m3u8
+#EXTINF:-1 group-title="IPTV研究所",TVB生活台
+https://tv.mytvsuper.xyz/tvb/shenghuo/stream.m3u8
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="地方台",浙江新闻
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 group-title="地方台",浙江影视
@@ -132,8 +153,6 @@ http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 
 
 
-
-
 #EXTINF:-1 group-title="地方台",南京新闻综合
 http://live.nbs.cn/channels/njtv/xwpdb/nbs06.m3u8
 #EXTINF:-1 group-title="地方台",南京十八
@@ -144,6 +163,18 @@ http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
 http://live.nbs.cn/channels/njtv/wljl/nbs24.m3u8
 #EXTINF:-1 group-title="地方台",南京少儿
 http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
