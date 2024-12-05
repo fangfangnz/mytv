@@ -9,7 +9,8 @@ https://yunmei.tv/cctv-5plus-hls/stream.m3u8
 https://yunmei.tv/cctv-16-hls/stream.m3u8
 
 
-
+#EXT-X-STREAM-INF:BANDWIDTH=150000"
+http://107.175.24.118:35455/tv.m3u
 
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1 综合" tvg-logo="https://assets.livednow.com/logo/CCTV1.png" group-title="咪咕TV",CCTV1 综合
