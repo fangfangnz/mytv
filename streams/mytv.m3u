@@ -6,34 +6,16 @@ https://yunmei.tv/cctv/cctv-5.m3u8
 https://yunmei.tv/cctv/cctv-5+.m3u8
 
 
-
-#EXTINF:-1 group-title="Yunmei.TV",北京卫视
-https://yunmei.tv/wscn/beijing.m3u8
-#EXTINF:-1 group-title="Yunmei.TV",安徽卫视
-https://yunmei.tv/wscn/anhui.m3u8
-#EXTINF:-1 group-title="Yunmei.TV",东方卫视
-https://yunmei.tv/wscn/dongfang.m3u8
-#EXTINF:-1 group-title="Yunmei.TV",东南卫视
-https://yunmei.tv/wscn/dongnan.m3u8
-#EXTINF:-1 group-title="Yunmei.TV",黑龙江卫视
-https://yunmei.tv/wscn/heilongjiang.m3u8
-#EXTINF:-1 group-title="Yunmei.TV",湖南卫视
-https://yunmei.tv/wscn/hunan.m3u8
-#EXTINF:-1 group-title="Yunmei.TV",江苏卫视
-https://yunmei.tv/wscn/jiangsu.m3u8
-#EXTINF:-1 group-title="Yunmei.TV",江西卫视
-https://yunmei.tv/wscn/jiangxi.m3u8
-#EXTINF:-1 group-title="Yunmei.TV",辽宁卫视
-https://yunmei.tv/wscn/liaoning.m3u8
-#EXTINF:-1 group-title="Yunmei.TV",山东卫视
-https://yunmei.tv/wscn/shandong.m3u8
-#EXTINF:-1 group-title="Yunmei.TV",深圳卫视
-https://yunmei.tv/wscn/shenzhen.m3u8
-#EXTINF:-1 group-title="Yunmei.TV",四川卫视
-https://yunmei.tv/wscn/sichuan.m3u8
-#EXTINF:-1 group-title="Yunmei.TV",浙江卫视
-https://yunmei.tv/wscn/zhejiang.m3u8
-
+#EXTINF:-1 group-title="Tv.garden",港台电视33
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
+#EXTINF:-1 group-title="Tv.garden",港台电视34
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
+#EXTINF:-1 group-title="Tv.garden",港台电视35
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8
+#EXTINF:-1 group-title="Tv.garden",凤凰卫视
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8
+#EXTINF:-1 group-title="Tv.garden",凤凰资讯
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8
 
 
 
