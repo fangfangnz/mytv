@@ -12,8 +12,10 @@ https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPla
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 #EXTINF:-1 group-title="Tv.garden",港台电视35
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8
-#EXTINF:-1 group-title="Tv.garden",凤凰卫视
-https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8
+#EXTINF:-1 group-title="Tv.garden",延边电视-1
+https://live.ybtvyun.com/video/s10016-ca5bdbc3f06d/index.m3u8
+#EXTINF:-1 group-title="Tv.garden",延边电视-2
+https://live.ybtvyun.com/video/s10016-6d4fe23a90b3/index.m3u8
 #EXTINF:-1 group-title="Tv.garden",凤凰资讯
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8
 
