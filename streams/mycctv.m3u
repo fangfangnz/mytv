@@ -1,10 +1,10 @@
 
 #EXTINF:-1 group-title="厨房",云台-高清
-rtsp://admin:@Xy7095018@192.168.31.87:554/stream1&channel1
+rtsp://admin:@Xy7095018@192.168.31.87:554/stream1&channel=1
 #EXTINF:-1 group-title="厨房",固定-高清
-rtsp://admin:@Xy7095018@192.168.31.87:554/stream1&channel2
+rtsp://admin:@Xy7095018@192.168.31.87:554/stream1&channel=2
 
 #EXTINF:-1 group-title="厨房",云台-标清
-rtsp://admin:@Xy7095018@192.168.31.87:554/stream2&channel1
+rtsp://admin:@Xy7095018@192.168.31.87:554/stream2&channel=1
 #EXTINF:-1 group-title="厨房",固定-标清
-rtsp://admin:@Xy7095018@192.168.31.87:554/stream2&channel2
+rtsp://admin:@Xy7095018@192.168.31.87:554/stream2&channel=2
