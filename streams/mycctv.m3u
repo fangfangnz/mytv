@@ -11,10 +11,16 @@ rtsp://admin:@Xy7095018@192.168.31.191:554/stream1
 rtsp://admin:@aaaaaaaaaa@192.168.31.57:554/cam1/mpeg4
 
 
+
+
 #EXTINF:-1 group-title="厨房",云台-标清
 rtsp://admin:@Xy7095018@192.168.31.87:554/stream2&channel=1
 #EXTINF:-1 group-title="厨房",固定-标清
 rtsp://admin:@Xy7095018@192.168.31.87:554/stream2&channel=2
-
 #EXTINF:-1 group-title="客厅",客厅-标清
 rtsp://admin:@Xy7095018@192.168.31.191:554/stream2
+
+
+
+#EXTINF:-1 group-title="DDNS",客厅-标清
+rtsp://admin:@Xy7095018@fangnz.ddns.net:87/stream1
