@@ -23,4 +23,4 @@ rtsp://admin:@Xy7095018@192.168.31.191:554/stream2
 
 
 #EXTINF:-1 group-title="DDNS",客厅-高清
-rtsp://admin:@Xy7095018@fangnz.ddns.net:87/stream1
+rtsp://admin:@Xy7095018@fangnz.ddns.net:191/stream1
