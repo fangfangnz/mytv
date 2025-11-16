@@ -18,9 +18,4 @@ rtsp://admin:@Xy7095018@192.168.9.111:554/stream2
 
 
 
-#EXTINF:-1 group-title="DDNS",DDNS-客厅高清
-rtsp://admin:@Xy7095018@fangnz.ddns.net:191/stream1
-#EXTINF:-1 group-title="DDNS",DDNS-厨房云台HD
-rtsp://admin:@Xy7095018@fangnz.ddns.net:87/stream1&channel=1
-#EXTINF:-1 group-title="DDNS",DDNS-厨房固定HD
-rtsp://admin:@Xy7095018@fangnz.ddns.net:87/stream1&channel=2
+
