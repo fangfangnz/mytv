@@ -1,10 +1,15 @@
-
+#EXTINF:-1 group-title="客厅",客厅-高清
+rtsp://admin:@Xy7095018@192.168.9.111:554/stream1
 #EXTINF:-1 group-title="厨房",云台-高清
 rtsp://admin:@Xy7095018@192.168.9.60:554/stream1&channel=1
 #EXTINF:-1 group-title="厨房",固定-高清
 rtsp://admin:@Xy7095018@192.168.9.60:554/stream1&channel=2
-#EXTINF:-1 group-title="客厅",客厅-高清
-rtsp://admin:@Xy7095018@192.168.9.111:554/stream1
+
+#EXTINF:-1 group-title="室外",车库右侧-云台
+rtsp://admin:@Xy7095018@192.168.9.91:554/stream1&profile=1
+#EXTINF:-1 group-title="室外",车库右侧-固定
+rtsp://admin:@Xy7095018@192.168.9.71:554/stream1&profile_2
+
 #EXTINF:-1 group-title="室外",正门-高清
 rtsp://admin:@aaaaaaaaaa@192.168.9.63:8554/profile0
 
